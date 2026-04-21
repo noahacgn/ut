@@ -1,0 +1,19 @@
+[project]
+name = "uniqlo-price-watch"
+version = "0.1.0"
+description = "GitHub Actions monitor for discounted UNIQLO UT T-shirts."
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["B", "E", "F", "I", "UP"]
+
+[tool.mypy]
+python_version = "3.13"
+strict = true
+files = ["scripts"]
+

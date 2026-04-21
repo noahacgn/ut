@@ -1,0 +1,46 @@
+{
+  "resp": [
+    [],
+    [
+      {
+        "code": "480695",
+        "productCode": "u0000000061836",
+        "name": "UT ONE PIECE ARCHIVE印花短袖T恤",
+        "minPrice": 59.0,
+        "originPrice": 99.0,
+        "mainPic": "/hmall/test/u0000000061836/main/first/561/1.jpg",
+        "styleText4zhCN": ["23 橙黄色"],
+        "size": ["SMA004", "SMA005"]
+      },
+      {
+        "code": "481670",
+        "productCode": "u0000000063579",
+        "name": "UT品牌合作系列印花T恤/短袖T恤",
+        "minPrice": 59.0,
+        "originPrice": 99.0,
+        "mainPic": "/hmall/test/u0000000063579/main/first/561/1.jpg",
+        "styleText4zhCN": ["00 白色"],
+        "size": ["SMA004", "SMA005"]
+      },
+      {
+        "code": "490000",
+        "productCode": "u0000000079999",
+        "name": "UT测试印花短袖T恤",
+        "minPrice": 59.0,
+        "originPrice": 99.0,
+        "mainPic": "/hmall/test/u0000000079999/main/first/561/1.jpg",
+        "styleText4zhCN": ["69 蓝色"],
+        "size": ["SMA004"]
+      }
+    ],
+    {
+      "productSum": 21,
+      "pageSize": 20
+    },
+    [],
+    []
+  ],
+  "success": true,
+  "total": 5
+}
+

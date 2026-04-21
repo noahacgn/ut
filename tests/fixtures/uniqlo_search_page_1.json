@@ -1,0 +1,46 @@
+{
+  "resp": [
+    [],
+    [
+      {
+        "code": "481670",
+        "productCode": "u0000000063579",
+        "name": "UT品牌合作系列印花T恤/短袖T恤",
+        "minPrice": 59.0,
+        "originPrice": 99.0,
+        "mainPic": "/hmall/test/u0000000063579/main/first/561/1.jpg",
+        "styleText4zhCN": ["00 白色"],
+        "size": ["SMA004", "SMA005"]
+      },
+      {
+        "code": "485258",
+        "productCode": "u0000000067735",
+        "name": "HEATTECH针织手套",
+        "minPrice": 59.0,
+        "originPrice": 129.0,
+        "mainPic": "/hmall/test/u0000000067735/main/first/561/1.jpg",
+        "styleText4zhCN": ["01 乳白色"],
+        "size": ["SMA005"]
+      },
+      {
+        "code": "489149",
+        "productCode": "u0000000071502",
+        "name": "UT Disney x F1®印花T恤/短袖T恤",
+        "minPrice": 99.0,
+        "originPrice": 99.0,
+        "mainPic": "/hmall/test/u0000000071502/main/first/561/1.jpg",
+        "styleText4zhCN": ["09 黑色"],
+        "size": ["SMA005"]
+      }
+    ],
+    {
+      "productSum": 21,
+      "pageSize": 20
+    },
+    [],
+    []
+  ],
+  "success": true,
+  "total": 5
+}
+
