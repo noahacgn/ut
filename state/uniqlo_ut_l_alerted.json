@@ -1,4 +1,28 @@
 {
-  "alerted_products": {}
+  "alerted_products": {
+    "474457": {
+      "product_code": "u0000000061732",
+      "name": "UT哆啦A梦邂逅卢浮宫印花短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-04-21T10:06:48.966501+00:00"
+    },
+    "480693": {
+      "product_code": "u0000000061832",
+      "name": "UT ONE PIECE ARCHIVE印花短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-04-21T10:06:48.966501+00:00"
+    },
+    "480695": {
+      "product_code": "u0000000061836",
+      "name": "UT ONE PIECE ARCHIVE印花短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-04-21T10:06:48.966501+00:00"
+    },
+    "481670": {
+      "product_code": "u0000000063579",
+      "name": "UT品牌合作系列印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-04-21T10:06:48.966501+00:00"
+    }
+  }
 }
-
