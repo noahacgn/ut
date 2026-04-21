@@ -7,6 +7,7 @@ from datetime import UTC, datetime
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Any, cast
+from unittest.mock import patch
 
 from scripts.uniqlo_price_watch import (
     AlertRecord,
@@ -17,6 +18,7 @@ from scripts.uniqlo_price_watch import (
     filter_target_products,
     find_new_products,
     load_state,
+    main,
     normalize_product,
     parse_page_response,
     process_watch,
@@ -151,6 +153,13 @@ class UniqloPriceWatchTests(unittest.TestCase):
             self.assertEqual(sent_count, 2)
             self.assertEqual(len(sent_messages), 1)
             self.assertEqual(sorted(state.keys()), ["480695", "481670"])
+
+    def test_main_returns_zero_after_successful_run(self) -> None:
+        with (
+            patch("scripts.uniqlo_price_watch.load_mail_config_from_env", return_value=self.config),
+            patch("scripts.uniqlo_price_watch.process_watch", return_value=4),
+        ):
+            self.assertEqual(main(), 0)
 
 
 if __name__ == "__main__":

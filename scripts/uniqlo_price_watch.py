@@ -580,13 +580,14 @@ def main() -> int:
     """命令行入口。"""
 
     config = load_mail_config_from_env()
-    return process_watch(
+    process_watch(
         config=config,
         state_path=STATE_PATH,
         fetcher=fetch_page,
         image_fetcher=download_image,
         sender=send_email,
     )
+    return 0
 
 
 if __name__ == "__main__":
