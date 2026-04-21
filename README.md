@@ -48,7 +48,7 @@ python scripts/uniqlo_price_watch.py
 ## 开发
 
 ```bash
-python -m unittest discover tests   # 运行测试
+python -m unittest discover tests    # 运行测试
 ruff check .                         # 代码静态检查
 mypy scripts                         # 类型检查（strict）
 ```
