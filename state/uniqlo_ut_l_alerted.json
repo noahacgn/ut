@@ -6,6 +6,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-04-21T10:06:48.966501+00:00"
     },
+    "477290": {
+      "product_code": "u0000000059456",
+      "name": "UT NY POP ART印花短袖T恤凯斯哈林",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
     "480693": {
       "product_code": "u0000000061832",
       "name": "UT ONE PIECE ARCHIVE印花短袖T恤",
@@ -60,17 +66,59 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-06-09T05:14:13.742957+00:00"
     },
+    "482777": {
+      "product_code": "u0000000066383",
+      "name": "UT The Brands Sweets印花T恤/短袖",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "482781": {
+      "product_code": "u0000000067114",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
     "482805": {
       "product_code": "u0000000068514",
       "name": "UT Elliott Erwitt印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-06-02T05:57:39.918946+00:00"
     },
+    "482806": {
+      "product_code": "u0000000071133",
+      "name": "UT Dragon Quest印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "483270": {
+      "product_code": "u0000000067132",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "483271": {
+      "product_code": "u0000000067133",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
     "483272": {
       "product_code": "u0000000067493",
       "name": "UT Disney印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-05-07T04:39:20.596328+00:00"
+    },
+    "483744": {
+      "product_code": "u0000000071155",
+      "name": "UT Dragon Quest印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "483745": {
+      "product_code": "u0000000066382",
+      "name": "UT The Brands Sweets印花T恤/短袖",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
     },
     "484358": {
       "product_code": "u0000000067492",
@@ -89,6 +137,54 @@
       "name": "UT Disney印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-05-07T04:39:20.596328+00:00"
+    },
+    "485042": {
+      "product_code": "u0000000066432",
+      "name": "UT The Brands Sweets印花T恤/短袖",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485043": {
+      "product_code": "u0000000067113",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485044": {
+      "product_code": "u0000000067134",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485045": {
+      "product_code": "u0000000067135",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485064": {
+      "product_code": "u0000000066732",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485068": {
+      "product_code": "u0000000066714",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485071": {
+      "product_code": "u0000000066695",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485182": {
+      "product_code": "u0000000066384",
+      "name": "UT The Brands Sweets印花T恤/短袖",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
     },
     "485253": {
       "product_code": "u0000000067475",
@@ -125,6 +221,18 @@
       "name": "UT Elliott Erwitt印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-06-02T05:57:39.918946+00:00"
+    },
+    "485468": {
+      "product_code": "u0000000071158",
+      "name": "UT Dragon Quest印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485469": {
+      "product_code": "u0000000071159",
+      "name": "UT Dragon Quest印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-06-18T06:04:46.634185+00:00"
     },
     "486131": {
       "product_code": "u0000000068860",
