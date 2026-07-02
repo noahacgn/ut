@@ -54,6 +54,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-04-21T10:06:48.966501+00:00"
     },
+    "482747": {
+      "product_code": "u0000000068858",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
     "482749": {
       "product_code": "u0000000070876",
       "name": "UT卢浮宫博物馆印花T恤/短袖T恤",
@@ -246,6 +252,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-05-07T04:39:20.596328+00:00"
     },
+    "486132": {
+      "product_code": "u0000000068859",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
     "486150": {
       "product_code": "u0000000070872",
       "name": "UT卢浮宫博物馆印花T恤/短袖T恤",
@@ -306,6 +318,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-06-09T05:14:13.742957+00:00"
     },
+    "487463": {
+      "product_code": "u0000000068833",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
     "487464": {
       "product_code": "u0000000068855",
       "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
@@ -317,6 +335,18 @@
       "name": "漫画UT集英社创立100周年UT短袖T恤幽游白书",
       "alerted_price": 59.0,
       "alerted_at": "2026-06-11T06:00:53.136167+00:00"
+    },
+    "487558": {
+      "product_code": "u0000000070419",
+      "name": "漫画UT集英社创立100周年UT短袖T恤幽游白书",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "487560": {
+      "product_code": "u0000000070422",
+      "name": "漫画UT集英社创立100周年UT短袖T恤咒术回战",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
     },
     "487562": {
       "product_code": "u0000000070433",
@@ -348,11 +378,59 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-06-11T06:00:53.136167+00:00"
     },
+    "487765": {
+      "product_code": "u0000000069661",
+      "name": "UT Poster Art Collection印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "487767": {
+      "product_code": "u0000000069646",
+      "name": "UT Poster Art Collection印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "487769": {
+      "product_code": "u0000000071732",
+      "name": "UT Poster Art Collection印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
     "487807": {
       "product_code": "u0000000068852",
       "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-05-07T04:39:20.596328+00:00"
+    },
+    "488251": {
+      "product_code": "u0000000072036",
+      "name": "漫画UT集英社创立100周年/NARUTO短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "488254": {
+      "product_code": "u0000000072038",
+      "name": "漫画UT集英社创立100周年/NARUTO短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "488255": {
+      "product_code": "u0000000072035",
+      "name": "漫画UT集英社创立100周年/Sakamoto Days短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "488261": {
+      "product_code": "u0000000072055",
+      "name": "漫画UT集英社创立100周年/COJI-COJI短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "488262": {
+      "product_code": "u0000000072056",
+      "name": "漫画UT集英社创立100周年/COJI-COJI短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-07-02T05:05:56.436292+00:00"
     }
   }
 }
