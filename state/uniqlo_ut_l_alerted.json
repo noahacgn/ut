@@ -84,6 +84,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-06-09T05:14:13.742957+00:00"
     },
+    "482752": {
+      "product_code": "u0000000066696",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
     "482757": {
       "product_code": "u0000000071518",
       "name": "UT Mario Movie印花T恤/短袖T恤",
@@ -95,6 +101,12 @@
       "name": "UT蓝色禁区印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-07-28T04:18:10.671503+00:00"
+    },
+    "482773": {
+      "product_code": "u0000000071154",
+      "name": "UT MusicalIcons印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
     },
     "482777": {
       "product_code": "u0000000066383",
@@ -192,6 +204,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-06-18T06:04:46.634185+00:00"
     },
+    "485062": {
+      "product_code": "u0000000066716",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
     "485064": {
       "product_code": "u0000000066732",
       "name": "UT NY POP ART印花T恤/短袖T恤",
@@ -234,6 +252,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-04-28T04:39:05.029975+00:00"
     },
+    "485308": {
+      "product_code": "u0000000072396",
+      "name": "UT PIXAR印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
     "485465": {
       "product_code": "u0000000068516",
       "name": "UT Elliott Erwitt印花T恤/短袖T恤",
@@ -263,6 +287,12 @@
       "name": "UT Dragon Quest印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485480": {
+      "product_code": "u0000000071160",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
     },
     "486131": {
       "product_code": "u0000000068860",
@@ -347,6 +377,12 @@
       "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-05-07T04:39:20.596328+00:00"
+    },
+    "487465": {
+      "product_code": "u0000000072399",
+      "name": "UT MAGIC FOR ALL印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
     },
     "487557": {
       "product_code": "u0000000070415",
@@ -479,6 +515,42 @@
       "name": "漫画UT集英社创立100周年/COJI-COJI短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-07-02T05:05:56.436292+00:00"
+    },
+    "488733": {
+      "product_code": "u0000000071134",
+      "name": "UT MusicalIcons印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
+    "488734": {
+      "product_code": "u0000000071156",
+      "name": "UT MusicalIcons印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
+    "488735": {
+      "product_code": "u0000000071157",
+      "name": "UT MusicalIcons印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
+    "489155": {
+      "product_code": "u0000000072398",
+      "name": "UT PIXAR印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
+    "489156": {
+      "product_code": "u0000000072377",
+      "name": "UT PIXAR印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
+    "489157": {
+      "product_code": "u0000000072379",
+      "name": "UT PIXAR印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-08-06T04:21:54.385379+00:00"
     }
   }
 }
