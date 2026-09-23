@@ -12,6 +12,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-04-21T10:06:48.966501+00:00"
     },
+    "475742": {
+      "product_code": "u0000000063591",
+      "name": "UT Pokémon印花短袖T恤宝可梦皮卡丘",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
     "477290": {
       "product_code": "u0000000059456",
       "name": "UT NY POP ART印花短袖T恤凯斯哈林",
@@ -83,6 +89,24 @@
       "name": "UT ONE PIECE印花T短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-05-28T05:16:51.393806+00:00"
+    },
+    "480857": {
+      "product_code": "u0000000063599",
+      "name": "UT Pokémon印花短袖T恤宝可梦菊石兽",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
+    "480859": {
+      "product_code": "u0000000063598",
+      "name": "UT Pokémon印花短袖T恤宝可梦鲤鱼王",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
+    "480860": {
+      "product_code": "u0000000063614",
+      "name": "UT Pokémon印花短袖T恤宝可梦超级沙奈朵",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
     },
     "480928": {
       "product_code": "u0000000061922",
@@ -222,6 +246,18 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-05-21T05:15:31.217137+00:00"
     },
+    "484765": {
+      "product_code": "u0000000072744",
+      "name": "UT PEANUTS印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
+    "484766": {
+      "product_code": "u0000000070964",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
     "484778": {
       "product_code": "u0000000070418",
       "name": "漫画UT集英社创立100周年UT短袖T恤全职猎人",
@@ -305,6 +341,12 @@
       "name": "UT NY POP ART印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-06-18T06:04:46.634185+00:00"
+    },
+    "485065": {
+      "product_code": "u0000000066693",
+      "name": "UT NY POP ART印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
     },
     "485068": {
       "product_code": "u0000000066714",
@@ -684,6 +726,12 @@
       "alerted_price": 59.0,
       "alerted_at": "2026-08-26T02:36:44.863487+00:00"
     },
+    "489072": {
+      "product_code": "u0000000072764",
+      "name": "UT PEANUTS印花T恤/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
     "489148": {
       "product_code": "u0000000073556",
       "name": "UT Disney x F1®印花T恤/短袖T恤",
@@ -719,6 +767,18 @@
       "name": "UT PIXAR印花T恤/短袖T恤",
       "alerted_price": 59.0,
       "alerted_at": "2026-08-06T04:21:54.385379+00:00"
+    },
+    "492127": {
+      "product_code": "u0000000075264",
+      "name": "UT PEANUTS/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
+    },
+    "492128": {
+      "product_code": "u0000000075296",
+      "name": "UT PEANUTS/短袖T恤",
+      "alerted_price": 59.0,
+      "alerted_at": "2026-09-23T05:49:46.628688+00:00"
     },
     "492195": {
       "product_code": "u0000000073843",
